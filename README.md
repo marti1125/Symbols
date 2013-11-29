@@ -1,4 +1,4 @@
-Symbols
-=======
+Symbols - Pre-alpha
+===================
 
 Symbols Sass
